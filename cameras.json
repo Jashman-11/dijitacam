@@ -1,0 +1,67 @@
+[
+  {
+    "id": "canon-ixus-160",
+    "brand": "Canon",
+    "model": "IXUS 160",
+    "priceJOD": 28,
+    "color": "#1a1a1a",
+    "condition": 5,
+    "megapixels": 20,
+    "zoom": "8x",
+    "tagline": "Pocket-sized, point-and-shoot perfect.",
+    "inStock": true,
+    "image": "/cameras/canon-ixus-160.jpg"
+  },
+  {
+    "id": "sony-cybershot-hx",
+    "brand": "Sony",
+    "model": "Cyber-shot HX Series",
+    "priceJOD": 35,
+    "color": "#101010",
+    "condition": 4,
+    "megapixels": 18,
+    "zoom": "20x",
+    "tagline": "Full HD movie mode, serious reach.",
+    "inStock": true,
+    "image": "/cameras/sony-cybershot-hx.jpg"
+  },
+  {
+    "id": "panasonic-lumix-dmc",
+    "brand": "Panasonic",
+    "model": "Lumix DMC Mega O.I.S.",
+    "priceJOD": 26,
+    "color": "#c7c9cc",
+    "condition": 4,
+    "megapixels": 16,
+    "zoom": "5x",
+    "tagline": "Leica DC lens, sharp glass, soft price.",
+    "inStock": true,
+    "image": "/cameras/panasonic-lumix-dmc.jpg"
+  },
+  {
+    "id": "fujifilm-finepix-pink",
+    "brand": "Fujifilm",
+    "model": "FinePix 14MP",
+    "priceJOD": 24,
+    "color": "#c2295a",
+    "condition": 5,
+    "megapixels": 14,
+    "zoom": "10x",
+    "tagline": "Loud color, quiet shutter, big zoom.",
+    "inStock": true,
+    "image": "/cameras/fujifilm-finepix-pink.jpg"
+  },
+  {
+    "id": "fujifilm-finepix-xp",
+    "brand": "Fujifilm",
+    "model": "FinePix XP (Rugged)",
+    "priceJOD": 32,
+    "color": "#3fae6e",
+    "condition": 4,
+    "megapixels": 14,
+    "zoom": "5x",
+    "tagline": "Water-proof, shock-proof, freeze-proof.",
+    "inStock": false,
+    "image": "/cameras/fujifilm-finepix-xp.jpg"
+  }
+]
